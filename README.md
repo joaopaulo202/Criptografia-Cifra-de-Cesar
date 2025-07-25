@@ -24,4 +24,4 @@ Este script em Python implementa uma cifra de César estendida, usando um alfabe
 
    🔔 Observação:
 
- O programa não processa letras que possuem acento.
+  O programa não processa letras que possuem acento.
