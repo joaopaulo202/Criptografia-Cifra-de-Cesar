@@ -22,4 +22,4 @@ Este script em Python implementa uma cifra de César estendida, usando um alfabe
    - Digite o **texto** a ser processado.  
    - Digite **C** para criptografar ou **D** para descriptografar.
 
-OBS: O programa não processa letras que possuem acento.
+ OBS: O programa não processa letras que possuem acento.
